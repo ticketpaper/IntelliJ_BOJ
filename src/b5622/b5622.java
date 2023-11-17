@@ -26,3 +26,4 @@ public class b5622 {
         System.out.println(second);
     }
 }
+
